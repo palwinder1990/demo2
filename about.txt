@@ -1,1 +1,3 @@
 print("This webpage is about University")
+print("university VC")
+print("About Chancellor")
